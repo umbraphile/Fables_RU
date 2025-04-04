@@ -1,206 +1,206 @@
 Mods: {
 	CalamityFables: {
 		Tiles: {
-			StormlionLarvaBanner.MapEntry: Banner
-			HookstaffBuriedTile.MapEntry: Hookstaff
-			HookstaffTile.MapEntry: Hookstaff
+			StormlionLarvaBanner.MapEntry: Знамя
+			HookstaffBuriedTile.MapEntry: Крючковый посох
+			HookstaffTile.MapEntry: Крючковый посох
 			NautilusPedestal.MapEntry: ""
-			GrapplerSpawnerTile.MapEntry: Spawner
-			MagnetizerSpawnerTile.MapEntry: Spawner
-			MortarSpawnerTile.MapEntry: Spawner
-			RollerSpawnerTile.MapEntry: Spawner
-			RoverSpawnerTile.MapEntry: Spawner
-			GeodeCrawlerBanner.MapEntry: Banner
-			WulfrumGrapplerBanner.MapEntry: Banner
-			WulfrumMagnetizerBanner.MapEntry: Banner
-			WulfrumMortarBanner.MapEntry: Banner
-			WulfrumNexusBanner.MapEntry: Banner
-			WulfrumRollerBanner.MapEntry: Banner
-			WulfrumRoverBanner.MapEntry: Banner
-			NautilusCrossingTheDunes.MapEntry: Painting
-			ScourgekillerPaintingTile.MapEntry: Painting
-			WulfrumAcrobaticsPackPoster.MapEntry: Poster
-			WulfrumBathtub.MapEntry: Wulfrum Bathtub
-			WulfrumBed.MapEntry: Wulfrum Bed
-			WulfrumBulkContainer.MapEntry: Wulfrum Bulk Storage
-			WulfrumBulkDoorClosed.MapEntry: Wulfrum Bulk Door
-			WulfrumBulkDoorOpen.MapEntry: Wulfrum Door
-			WulfrumCanister.MapEntry: Wulfrum Canister
-			WulfrumComputer.MapEntry: Wulfrum Computer
-			WulfrumComputerPoster.MapEntry: Poster
-			WulfrumCrate.MapEntry: Wulfrum Crate
-			WulfrumDesk.MapEntry: Wulfrum Desk
-			WulfrumDiggingTurtlePoster.MapEntry: Poster
-			WulfrumDoorClosed.MapEntry: Wulfrum Door
-			WulfrumDoorOpen.MapEntry: Wulfrum Door
-			WulfrumFidgetPoster.MapEntry: Poster
-			WulfrumFridge.MapEntry: Wulfrum Fridge
-			WulfrumGrapplerPoster.MapEntry: Poster
-			WulfrumGyratorPoster.MapEntry: Poster
-			WulfrumHatchClosed.MapEntry: Wulfrum Hatch
-			WulfrumHatchOpen.MapEntry: Wulfrum Hatch
-			WulfrumLocker.MapEntry: Wulfrum Storage Locker
-			WulfrumMagnetizerPoster.MapEntry: Poster
-			WulfrumModularChair.MapEntry: Wulfrum Modular Chair
-			WulfrumMortarPoster.MapEntry: Poster
-			WulfrumOfficeChair.MapEntry: Wulfrum Office Chair
-			WulfrumPowerArmorPoster.MapEntry: Poster
-			WulfrumReinforcedCrate.MapEntry: Wulfrum Crate
-			WulfrumRollerPoster.MapEntry: Poster
-			WulfrumRoverPoster.MapEntry: Poster
-			WulfrumSink.MapEntry: Wulfrum Sink
-			WulfrumSmallCanister.MapEntry: Wulfrum Canister
-			WulfrumTable.MapEntry: Wulfrum Table
-			WulfrumToilet.MapEntry: Wulfrum Toilet
-			WulfrumTubeLight.MapEntry: Wulfrum Tube Light
-			WulfrumWashingMachine.MapEntry: Wulfrum Washing Machine
-			WulfrumWashingMachinePoster.MapEntry: Poster
-			WulfrumWideComputer.MapEntry: Wulfrum Computer
-			WulfrumWorkbench.MapEntry: Wulfrum Work Bench
-			WulfrumWorkshop.MapEntry: Wulfrum Workshop
-			Wulfrum1x1Piles.MapEntry: Scrap
-			Wulfrum1x1PilesEcho.MapEntry: Scrap
-			Wulfrum3x2Piles.MapEntry: Scrap
-			Wulfrum3x2PilesEcho.MapEntry: Scrap
-			WulfrumChestLocked.MapEntry: Locked Wulfrum Chest
-			WulfrumLandfill.MapEntry: Wulfrum Landfill
-			WulfrumLure.MapEntry: Wulfrum Lure
-			WulfrumPipes.MapEntry: Wulfrum Pipe
-			WulfrumRotorLandfill.MapEntry: Wulfrum Landfill
-			WulfrumSmokingPipes.MapEntry: Wulfrum Pipe
-			CloudSpriteBanner.MapEntry: Banner
-			HookstaffBuriedTileEcho.MapEntry: Hookstaff
-			HookstaffTileEcho.MapEntry: Hookstaff
-			StormlionBanner.MapEntry: Banner
-			WulfrumBigRotorLandfill.MapEntry: Wulfrum Landfill
-			DustyCrates.MapEntry: Crate
-			DustyCratesEcho.MapEntry: Crate
-			TripodTorchTile.MapEntry: Torch
-			BrokenDummy.MapEntry: Dummy
-			BrokenDummyEcho.MapEntry: Dummy
-			SandstoneCampfireTile.MapEntry: Campfire
-			SandyTentTile.MapEntry: Tent
-			MakeshiftStoolTile.MapEntry: Stool
-			DesertBrazierTile.MapEntry: Brazier
-			DesertBrickPillarTile.MapEntry: Desert Brick Pillar Tile
-			SandstonePillarTile.MapEntry: Sandstone Pillar Tile
-			ShatteredTabletPaintingTile.MapEntry: Painting
-			DustyBricks.MapEntry: Dusty Bricks
-			GrimyGrate.MapEntry: Grimy Grate
-			IndustrialWulfrumTubeLight.MapEntry: Industrial Wulfrum Tube Light
-			BunkerScreenRubble.MapEntry: Bunker Screen
-			BunkerScreenRubbleEcho.MapEntry: Bunker Screen
-			BunkerShelfRubble.MapEntry: Bunker Shelf
-			BunkerShelfRubbleEcho.MapEntry: Bunker Shelf
-			BunkerWarningSignRubble.MapEntry: Bunker Warning Sign
-			BunkerWarningSignRubbleEcho.MapEntry: Bunker Warning Sign
-			BunkerChairRubble.MapEntry: Bunker Chair
-			BunkerChairRubbleEcho.MapEntry: Bunker Chair
-			BunkerLongTableRubble.MapEntry: Bunker Long Table
-			BunkerLongTableRubbleEcho.MapEntry: Bunker Long Table
-			BunkerTableRubble.MapEntry: Bunker Table
-			BunkerTableRubbleEcho.MapEntry: Bunker Table
-			BunkerWorkshopRubble.MapEntry: Bunker Workshop
-			BunkerWorkshopRubbleEcho.MapEntry: Bunker Workshop
-			BunkerWorkshop.MapEntry: Bunker Workshop
-			WulfrumVault.MapEntry: Wulfrum Vault
-			WulfrumVaultLocked.MapEntry: Locked Wulfrum Vault
-			WulfrumDeskLamp.MapEntry: Wulfrum Desk Lamp
-			WulfrumLamppost.MapEntry: Wulfrum Lamppost
+			GrapplerSpawnerTile.MapEntry: Породитель
+			MagnetizerSpawnerTile.MapEntry: Породитель
+			MortarSpawnerTile.MapEntry: Породитель
+			RollerSpawnerTile.MapEntry: Породитель
+			RoverSpawnerTile.MapEntry: Породитель
+			GeodeCrawlerBanner.MapEntry: Знамя
+			WulfrumGrapplerBanner.MapEntry: Знамя
+			WulfrumMagnetizerBanner.MapEntry: Знамя
+			WulfrumMortarBanner.MapEntry: Знамя
+			WulfrumNexusBanner.MapEntry: Знамя
+			WulfrumRollerBanner.MapEntry: Знамя
+			WulfrumRoverBanner.MapEntry: Знамя
+			NautilusCrossingTheDunes.MapEntry: Картина
+			ScourgekillerPaintingTile.MapEntry: Картина
+			WulfrumAcrobaticsPackPoster.MapEntry: Постер
+			WulfrumBathtub.MapEntry: Вульфрумовая ванна
+			WulfrumBed.MapEntry: Вульфрумовая кровать
+			WulfrumBulkContainer.MapEntry: Вульфрумовый контейнер
+			WulfrumBulkDoorClosed.MapEntry: Вульфрумовые ворота
+			WulfrumBulkDoorOpen.MapEntry: Вульфрумовые ворота
+			WulfrumCanister.MapEntry: Вульфрумовая канистра
+			WulfrumComputer.MapEntry: Вульфрумовый компьютер
+			WulfrumComputerPoster.MapEntry: Постер
+			WulfrumCrate.MapEntry: Вульфрумовый ящик
+			WulfrumDesk.MapEntry: Вульфрумовый рабочий стол
+			WulfrumDiggingTurtlePoster.MapEntry: Постер
+			WulfrumDoorClosed.MapEntry: Вульфрумовая дверь
+			WulfrumDoorOpen.MapEntry: Вульфрумовая дверь
+			WulfrumFidgetPoster.MapEntry: Постер
+			WulfrumFridge.MapEntry: Вульфрумовый холодильник
+			WulfrumGrapplerPoster.MapEntry: Постер
+			WulfrumGyratorPoster.MapEntry: Постер
+			WulfrumHatchClosed.MapEntry: Вульфрумовый люк
+			WulfrumHatchOpen.MapEntry: Вульфрумовый люк
+			WulfrumLocker.MapEntry: Вульфрумовый шкаф
+			WulfrumMagnetizerPoster.MapEntry: Постер
+			WulfrumModularChair.MapEntry: Вульфрумовый модульный стул
+			WulfrumMortarPoster.MapEntry: Постер
+			WulfrumOfficeChair.MapEntry: Вульфрумовый офисный стул
+			WulfrumPowerArmorPoster.MapEntry: Постер
+			WulfrumReinforcedCrate.MapEntry: Вульфрумовый ящик
+			WulfrumRollerPoster.MapEntry: Постер
+			WulfrumRoverPoster.MapEntry: Постер
+			WulfrumSink.MapEntry: Вульфрумовая раковина
+			WulfrumSmallCanister.MapEntry: Вульфрумовая канистра
+			WulfrumTable.MapEntry: Вульфрумовый стол
+			WulfrumToilet.MapEntry: Вульфрумовый туалет
+			WulfrumTubeLight.MapEntry: Вульфрумовая флуоресцентная лампа
+			WulfrumWashingMachine.MapEntry: Вульфрумовая стиральная машина
+			WulfrumWashingMachinePoster.MapEntry: Постер
+			WulfrumWideComputer.MapEntry: Вульфрумовый компьютер
+			WulfrumWorkbench.MapEntry: Вульфрумовый верстак
+			WulfrumWorkshop.MapEntry: Вульфрумовый верстак
+			Wulfrum1x1Piles.MapEntry: Металлолом
+			Wulfrum1x1PilesEcho.MapEntry: Металлолом
+			Wulfrum3x2Piles.MapEntry: Металлолом
+			Wulfrum3x2PilesEcho.MapEntry: Металлолом
+			WulfrumChestLocked.MapEntry: Закрытый вульфрумовый сундук
+			WulfrumLandfill.MapEntry: Вульфрумовая отсыпка
+			WulfrumLure.MapEntry: Вульфрумовая приманка
+			WulfrumPipes.MapEntry: Вульфрумовая труба
+			WulfrumRotorLandfill.MapEntry: Вульфрумовая отсыпка
+			WulfrumSmokingPipes.MapEntry: Вульфрумовая труба
+			CloudSpriteBanner.MapEntry: Знамя
+			HookstaffBuriedTileEcho.MapEntry: Крючковый посох
+			HookstaffTileEcho.MapEntry: Крючковый посох
+			StormlionBanner.MapEntry: Знамя
+			WulfrumBigRotorLandfill.MapEntry: Вульфрумовая отсыпка
+			DustyCrates.MapEntry: Ящик
+			DustyCratesEcho.MapEntry: Ящик
+			TripodTorchTile.MapEntry: Факел
+			BrokenDummy.MapEntry: Манекен-мишень
+			BrokenDummyEcho.MapEntry: Манекен-мишень
+			SandstoneCampfireTile.MapEntry: Костёр
+			SandyTentTile.MapEntry: Палатка
+			MakeshiftStoolTile.MapEntry: Табуретка
+			DesertBrazierTile.MapEntry: Мангал
+			DesertBrickPillarTile.MapEntry: Колонна из пустынного кирпича
+			SandstonePillarTile.MapEntry: Песчаниковая колонна
+			ShatteredTabletPaintingTile.MapEntry: Картина
+			DustyBricks.MapEntry: Пыльные кирпичи
+			GrimyGrate.MapEntry: Жуткий ящик
+			IndustrialWulfrumTubeLight.MapEntry: Промышленная вульфрумовая флуоресцентная лампа
+			BunkerScreenRubble.MapEntry: Экран бункера
+			BunkerScreenRubbleEcho.MapEntry: Экран бункера
+			BunkerShelfRubble.MapEntry: Полки бункера
+			BunkerShelfRubbleEcho.MapEntry: Полки бункера
+			BunkerWarningSignRubble.MapEntry: Предупреждающий знак бункера
+			BunkerWarningSignRubbleEcho.MapEntry: Предупреждающий знак бункера
+			BunkerChairRubble.MapEntry: Стул бункера
+			BunkerChairRubbleEcho.MapEntry: Стул бункера
+			BunkerLongTableRubble.MapEntry: Длинный стол бункера
+			BunkerLongTableRubbleEcho.MapEntry: Длинный стол бункера
+			BunkerTableRubble.MapEntry: Стол бункера
+			BunkerTableRubbleEcho.MapEntry: Стол бункера
+			BunkerWorkshopRubble.MapEntry: Мастерская бункера
+			BunkerWorkshopRubbleEcho.MapEntry: Мастерская бункера
+			BunkerWorkshop.MapEntry: Мастерская бункера
+			WulfrumVault.MapEntry: Вульфрумовое хранилище
+			WulfrumVaultLocked.MapEntry: Закрытое вульфрумовое хранилище
+			WulfrumDeskLamp.MapEntry: Вульфрумовая настольная лампа
+			WulfrumLamppost.MapEntry: Вульфрумовый фонарный столб
 		}
 
-		Conditions.InNautilusChamber: Inside the Sealed Chamber
+		Conditions.InNautilusChamber: Внутри запечатанной палаты
 
 		Compat: {
 			BossChecklist: {
 				DesertScourge: {
-					SpawnInfo: Lure out the Desert Scourge using [i:{0}][i:{1}][i:{2}] tasty stormlion grubs.
-					Despawn: The Desert Scourge dissapears below the shifting sands...
+					SpawnInfo: Приманите Пустынного бича, используя [i:{0}][i:{1}][i:{2}] вкусные личинки штормового льва.
+					Despawn: Пустынный бич теряется в обволакивающих песках...
 				}
 
 				Crabulon: {
-					SpawnInfo: Can naturally spawn peeking out in the mushroom caves before its defeat. Draw its attention by using a [i:{0}] hookstaff on mushroom grass.
-					Despawn: The mushroom caves become silent again...
+					SpawnInfo: Иногда сам выглядывает из земли биома светящихся грибов. Привлеките его внимание, используя [i:{0}] крючковый посох на грибной земле.
+					Despawn: Грибные пещеры вновь затихают...
 				}
 
 				Nautilus: {
-					SpawnInfo: Meet the lone soldier in a hidden chamber buried beneath the dunes... an ancient [i:{0}] graveyard marks the spot!
-					Despawn: Nautilus wins the duel!
+					SpawnInfo: Встретьте одинокого война в запечатанных палатах глубоко под песчаником... древнее [i:{0}] кладбище укажет путь!
+					Despawn: Наутилус выигрывает дуэль!
 				}
 			}
 		}
 
 		Projectiles: {
-			AntlionChunk.DisplayName: Antlion Chunk
-			DesertScourgeElectroblast.DisplayName: a voltful blast
-			DesertScourgeFallingSkull.DisplayName: Desert Scourge's Skull
-			PlatformElectrification.DisplayName: over 2000 volts
-			StormlionChunk.DisplayName: Stormlion Chunk
-			CrabulonClawHitbox.DisplayName: Crabulon
-			CrabulonDropHitbox.DisplayName: Crabulon
-			CrabulonSporeSeed.DisplayName: Spore Seed
-			CrabulonStomp.DisplayName: fungal shockwave
-			LingeringSporeGas.DisplayName: Spore Gas
-			SporedSkeleton.DisplayName: a spored corpse
-			NautilusDashSlice.DisplayName: Nautilus' complete mastery over his trident
-			NautilusTrident.DisplayName: Trident
-			SandstoneBoulder.DisplayName: a sandstone boulder
-			SignathionSpectralBolt.DisplayName: Spectral Water
-			ElectrocellDischarge.DisplayName: Unstable Discharge
-			CrabSpirit.DisplayName: Crab Spirit
-			InfestationExplosionHitbox.DisplayName: Mycelium Explosion
-			InfestationRot.DisplayName: Rot
-			InkyCapGuardian.DisplayName: Inky Cap Guardian
-			InkyCapSporeBomb.DisplayName: Seed
-			ManaMushroom.DisplayName: Mana Mushroom
-			MushSlingshot.DisplayName: Mushroom Hook
-			OvergrownClawProjectile.DisplayName: Claw
-			OvergrownClawSlamHitbox.DisplayName: Seismic Shock
-			SerratedMyceliumHook.DisplayName: Serrated Thread
-			SporePodSplort.DisplayName: Splort
-			SporethrowerJet.DisplayName: Spores
-			SyringeGunDart.DisplayName: Syringe
-			WarpPod.DisplayName: Warp Pod
-			PeculiarPotTarBlot.DisplayName: Tar Blot
-			PeculiarPotTarRing.DisplayName: Tar
-			PeculiarPotTarTrail.DisplayName: Tar
-			AmpstringArrow.DisplayName: Ampstring Arrow
-			AmpstringNeedle.DisplayName: Ampstring Needle
-			CarrionDetonatorMeatBlast.DisplayName: Meatblast
-			CarrionDetonatorMeatChunk.DisplayName: Meatball
-			CarrionDetonatorWindWave.DisplayName: Wind Slice
+			AntlionChunk.DisplayName: Кусок муравьиного льва
+			DesertScourgeElectroblast.DisplayName: Заряженный взрыв
+			DesertScourgeFallingSkull.DisplayName: Череп пустынного бича
+			PlatformElectrification.DisplayName: Свыше 2000 вольт
+			StormlionChunk.DisplayName: Кусок штормового льва
+			CrabulonClawHitbox.DisplayName: Крабулон
+			CrabulonDropHitbox.DisplayName: Крабулон
+			CrabulonSporeSeed.DisplayName: Семя спор
+			CrabulonStomp.DisplayName: Грибная ударная волна
+			LingeringSporeGas.DisplayName: Газ спор
+			SporedSkeleton.DisplayName: Споровый труп
+			NautilusDashSlice.DisplayName: Мастерство Наутилуса владения трезубцом
+			NautilusTrident.DisplayName: Трезубец
+			SandstoneBoulder.DisplayName: Песчаный валун
+			SignathionSpectralBolt.DisplayName: Спектральная вода
+			ElectrocellDischarge.DisplayName: Нестабильный разряд
+			CrabSpirit.DisplayName: Дух краба
+			InfestationExplosionHitbox.DisplayName: Мицелиевый взрыв
+			InfestationRot.DisplayName: Гниль
+			InkyCapGuardian.DisplayName: Защитник с чернильной шляпкой
+			InkyCapSporeBomb.DisplayName: Семя
+			ManaMushroom.DisplayName: Гриб маны
+			MushSlingshot.DisplayName: Грибной крюк
+			OvergrownClawProjectile.DisplayName: Клешня
+			OvergrownClawSlamHitbox.DisplayName: Сейсмический шок
+			SerratedMyceliumHook.DisplayName: Цепкая нить
+			SporePodSplort.DisplayName: Плевок
+			SporethrowerJet.DisplayName: Споры
+			SyringeGunDart.DisplayName: Шприц
+			WarpPod.DisplayName: Телепортирующий кокон
+			PeculiarPotTarBlot.DisplayName: Масляное пятно
+			PeculiarPotTarRing.DisplayName: Масло
+			PeculiarPotTarTrail.DisplayName: Масло
+			AmpstringArrow.DisplayName: Токопроводящая стрела
+			AmpstringNeedle.DisplayName: Токопроводящий шприц
+			CarrionDetonatorMeatBlast.DisplayName: Мясной взрыв
+			CarrionDetonatorMeatChunk.DisplayName: Фрикаделька
+			CarrionDetonatorWindWave.DisplayName: Ветряной удар
 			MiniElectroblast.DisplayName: BALLIN' BLAST
-			RegurgitatedBuff.DisplayName: Regurgitated Meal
-			StormlionWhipProjectile.DisplayName: Stormlion Whip
-			TinyScourgePet.DisplayName: Tiny Scourge
+			RegurgitatedBuff.DisplayName: Переваренный обед
+			StormlionWhipProjectile.DisplayName: Штормовой хлыст
+			TinyScourgePet.DisplayName: Маленький бич
 			TornElectrosacBall.DisplayName: BALLING SO HARD
-			AcidExplosion.DisplayName: Acid Explosion
-			BouncyDartProj.DisplayName: Bouncy Dart
-			BrambleMinion.DisplayName: Tumbleweed
-			BundleOfCaltropsProjectile.DisplayName: Bundle of Caltrops
-			Caltrop.DisplayName: Caltrop
-			CloudInAMaceProjectile.DisplayName: Cloud in a Mace
-			CloudySpikeBallProjectile.DisplayName: Cloudy Spiky Ball
-			CrackshotBlast.DisplayName: Blast
-			CrackshotCoin.DisplayName: Coin
-			DesertScourgeLightningStrike.DisplayName: Thunder Strike
-			EyetoothMincedMeat.DisplayName: Minced Meat
-			EyetoothRipperProjectile.DisplayName: Eyetooth Ripper
-			FanaticalMaskGlobule.DisplayName: Blood Cell
-			FanaticalMaskProjectile.DisplayName: Fanatical Mask
-			FanaticalMaskTendril.DisplayName: Blood Tendril
-			LeechExplosion.DisplayName: Neurotoxin Explosion
-			ObsidianThrowingDaggerProj.DisplayName: Dagger
-			PlasmaRodBlast.DisplayName: Plasma Blast
-			PlasmaRodBoltExplosion.DisplayName: Plasma Explosion
-			PlasmaRodDart.DisplayName: Plasma Dart
-			PontiffsPiperBloodShot.DisplayName: Blood Shot
-			PontiffsPiperBuffNotes.DisplayName: Toot
-			PontiffsPiperNotes.DisplayName: Toot
-			PontiffsPiperSquid.DisplayName: Blood Piper
-			SpikedBallFragment.DisplayName: Shrapnel
-			SpikedBallProjectile.DisplayName: Spiked Ball
-			WoodenDartProj.DisplayName: Wooden Dart
+			AcidExplosion.DisplayName: Кислотный взрыв
+			BouncyDartProj.DisplayName: Скачущий дротик
+			BrambleMinion.DisplayName: Перекати-поле
+			BundleOfCaltropsProjectile.DisplayName: Мешок колючек
+			Caltrop.DisplayName: Колючка
+			CloudInAMaceProjectile.DisplayName: Облако в булаве
+			CloudySpikeBallProjectile.DisplayName: Облачный колючий шар
+			CrackshotBlast.DisplayName: Взрыв
+			CrackshotCoin.DisplayName: Монета
+			DesertScourgeLightningStrike.DisplayName: Удар молнии
+			EyetoothMincedMeat.DisplayName: Нарезаннное мясо
+			EyetoothRipperProjectile.DisplayName: Зубоглазый жнец
+			FanaticalMaskGlobule.DisplayName: Кровяная клетка
+			FanaticalMaskProjectile.DisplayName: Маска фанатика
+			FanaticalMaskTendril.DisplayName: Кровавый нарост
+			LeechExplosion.DisplayName: Нейротоксиновый взрыв
+			ObsidianThrowingDaggerProj.DisplayName: Кинжал
+			PlasmaRodBlast.DisplayName: Заряд плазмы
+			PlasmaRodBoltExplosion.DisplayName: Взрыв плазмы
+			PlasmaRodDart.DisplayName: Дротик плазмы
+			PontiffsPiperBloodShot.DisplayName: Кровавый выстрел
+			PontiffsPiperBuffNotes.DisplayName: Гудок
+			PontiffsPiperNotes.DisplayName: Гудок
+			PontiffsPiperSquid.DisplayName: Кровавый дудочник
+			SpikedBallFragment.DisplayName: Шрапнель
+			SpikedBallProjectile.DisplayName: Шипастый шар
+			WoodenDartProj.DisplayName: Деревянный дротик
 			MarniteDeconstructorProj.DisplayName: Marnite Deconstructor
 			MarniteRepulsionHitbox.DisplayName: Repulsion Matrix
 			MarniteObliteratorProj.DisplayName: Marnite Obliterator
@@ -1777,7 +1777,7 @@ Mods: {
 			}
 
 			WulfrumBedItem: {
-				DisplayName: Wulfrum Bed
+				DisplayName: Вульфрумовая кровать
 				Tooltip: ""
 			}
 
